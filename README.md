@@ -19,3 +19,13 @@ git clone https://github.com/yourusername/file-integrity-checker-gui.git
 cd file-integrity-checker-gui
 pip install -r requirements.txt
 python app.py
+
+## 📦 Requirements
+
+**CMD**
+- pip install watchdog
+- pip install colorama
+
+
+
+
