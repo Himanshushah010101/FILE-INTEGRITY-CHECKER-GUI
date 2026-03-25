@@ -1,4 +1,4 @@
-# File Integrity Checker GUI 🔐
+# File Integrity Checker CLI 🔐
 
 A GUI-based cybersecurity tool to verify file integrity using SHA-256 hashing.
 
